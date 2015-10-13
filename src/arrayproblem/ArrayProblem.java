@@ -86,7 +86,7 @@ public class ArrayProblem {
         }
         else
         {
-            System.out.println("No value is greater than half of the array");
+            System.out.println("No value is greater than half of the array size");
         }
     }
 
